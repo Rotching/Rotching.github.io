@@ -1,102 +1,63 @@
-# Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+# 洛晴的个人网站配置
+title: 洛晴的小站
+SEOTitle: 洛晴 | 前端开发者 & 插画爱好者
+header-img: img/moonlight-bg.jpg  # 改用月光主题背景图
+email: luoqing@example.com
+description: "这里是洛晴的创意空间，分享前端开发心得和数字插画作品 | 在代码与画笔间寻找平衡"
+keyword: "洛晴, 前端开发, JavaScript, Vue, 数字插画, 个人博客, 技术博客"
+url: "https://luoqing.me"
+baseurl: ""
 
-# Publish posts or collection documents with a future date.
+# 功能设置
 future: true
-
-# SNS settings
-RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
-#linkedin_username:  firstname-lastname-idxxxx
-
-# Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
-paginate: 10
-exclude:
-  [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
-  ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+paginate: 8
+exclude: ["node_modules", "package.json"]
 
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+# 社交账号
+github_username: luoqing
+twitter_username: luoqing_art
+instagram_username: luoqing_doodles
+pixiv_username: luoqing
 
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-kramdown:
-  input: GFM # use Github Flavored Markdown !important
-  syntax_highlighter_opts:
-    span:
-      line_numbers: false
-    block:
-      line_numbers: true
-      start_line: 1
+# 评论系统
+disqus_username: luoqing-blog
 
-# Disqus settings
-disqus_username: hux
+# 分析统计
+ga_track_id: "UA-XXXXXX-XX"
+ga_domain: luoqing.me
 
-# Netease settings
-netease_comment: false
+# 侧边栏
+sidebar: true
+sidebar-about-description: "昼码代码，夜执画笔<br>Vue爱好者 | 插画练习生"
+sidebar-avatar: https://github.com/luoqing.png
 
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
+# 特色标签
+featured-tags: true
+featured-condition-size: 2
 
-# Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# 视觉主题
+theme-color: "#5e35b1"  # 深紫色主题
 
-# Sidebar settings
-sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
-
-# Featured Tags
-featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
-
-# Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+# 特色功能
 service-worker: true
+canvas-nest: true  # 添加背景动画效果
 
-# MathJax rendering for layout:page (e.g. post preview)
-page-mathjax: false
-
-# Friends
+# 友链
 friends:
   [
-    { title: "乱序（Midare）", href: "http://mida.re/" },
-    { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-    { title: "Kun Qian", href: "http://kunq.me" },
-    { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-    { title: "SmdCn", href: "http://blog.smdcn.net" },
-    { title: "JiyinYiyong", href: "http://tiye.me/" },
-    { title: "DHong Say", href: "http://dhong.co" },
-    { title: "尹峰以为", href: "http://ingf.github.io/" },
+    { title: "星辰阁", href: "https://xingchen.ge" },
+    { title: "萤火小筑", href: "https://firefly.me" },
+    { title: "代码绘", href: "https://code-paint.art" },
+    { title: "Vue社区", href: "https://vue-community.org" },
   ]
+
+# 作品集展示
+portfolio:
+  enable: true
+  items:
+    [
+      { title: "Vue组件库", img: "img/works/vue-components.png", url: "#" },
+      { title: "星空插画集", img: "img/works/stars-collection.jpg", url: "#" }
+    ]
