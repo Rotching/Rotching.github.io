@@ -1,0 +1,8 @@
+{
+  "name": "rotching-live2d-pet",
+  "private": true,
+  "type": "module",
+  "scripts": {"build": "node build.mjs"},
+  "dependencies": {"pixi.js": "6.5.10", "pixi-live2d-display": "0.4.0"},
+  "devDependencies": {"esbuild": "0.25.12"}
+}

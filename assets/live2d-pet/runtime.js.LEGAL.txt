@@ -1,0 +1,638 @@
+Bundled license information:
+
+object-assign/index.js:
+  /*
+  object-assign
+  (c) Sindre Sorhus
+  @license MIT
+  */
+
+punycode/punycode.js:
+  /*! https://mths.be/punycode v1.4.1 by @mathias */
+
+@pixi/polyfill/dist/esm/polyfill.mjs:
+  /*!
+   * @pixi/polyfill - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/polyfill is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/constants/dist/esm/constants.mjs:
+  /*!
+   * @pixi/constants - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/constants is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/settings/dist/esm/settings.mjs:
+  /*!
+   * @pixi/settings - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/settings is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/utils/dist/esm/utils.mjs:
+  /*!
+   * @pixi/utils - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/utils is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/math/dist/esm/math.mjs:
+  /*!
+   * @pixi/math - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/math is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/display/dist/esm/display.mjs:
+  /*!
+   * @pixi/display - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/display is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/extensions/dist/esm/extensions.mjs:
+  /*!
+   * @pixi/extensions - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/extensions is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/runner/dist/esm/runner.mjs:
+  /*!
+   * @pixi/runner - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/runner is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/ticker/dist/esm/ticker.mjs:
+  /*!
+   * @pixi/ticker - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/ticker is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/core/dist/esm/core.mjs:
+  /*!
+   * @pixi/core - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/core is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/accessibility/dist/esm/accessibility.mjs:
+  /*!
+   * @pixi/accessibility - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/accessibility is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/interaction/dist/esm/interaction.mjs:
+  /*!
+   * @pixi/interaction - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/interaction is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/extract/dist/esm/extract.mjs:
+  /*!
+   * @pixi/extract - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/extract is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/loaders/dist/esm/loaders.mjs:
+  /*!
+   * @pixi/loaders - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/loaders is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/compressed-textures/dist/esm/compressed-textures.mjs:
+  /*!
+   * @pixi/compressed-textures - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/compressed-textures is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/particle-container/dist/esm/particle-container.mjs:
+  /*!
+   * @pixi/particle-container - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/particle-container is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/graphics/dist/esm/graphics.mjs:
+  /*!
+   * @pixi/graphics - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/graphics is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/sprite/dist/esm/sprite.mjs:
+  /*!
+   * @pixi/sprite - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/sprite is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/text/dist/esm/text.mjs:
+  /*!
+   * @pixi/text - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/text is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/prepare/dist/esm/prepare.mjs:
+  /*!
+   * @pixi/prepare - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/prepare is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/spritesheet/dist/esm/spritesheet.mjs:
+  /*!
+   * @pixi/spritesheet - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/spritesheet is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/sprite-tiling/dist/esm/sprite-tiling.mjs:
+  /*!
+   * @pixi/sprite-tiling - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/sprite-tiling is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/mesh/dist/esm/mesh.mjs:
+  /*!
+   * @pixi/mesh - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/mesh is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/text-bitmap/dist/esm/text-bitmap.mjs:
+  /*!
+   * @pixi/text-bitmap - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/text-bitmap is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/filter-alpha/dist/esm/filter-alpha.mjs:
+  /*!
+   * @pixi/filter-alpha - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/filter-alpha is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/filter-blur/dist/esm/filter-blur.mjs:
+  /*!
+   * @pixi/filter-blur - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/filter-blur is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/filter-color-matrix/dist/esm/filter-color-matrix.mjs:
+  /*!
+   * @pixi/filter-color-matrix - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/filter-color-matrix is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/filter-displacement/dist/esm/filter-displacement.mjs:
+  /*!
+   * @pixi/filter-displacement - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/filter-displacement is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/filter-fxaa/dist/esm/filter-fxaa.mjs:
+  /*!
+   * @pixi/filter-fxaa - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/filter-fxaa is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/filter-noise/dist/esm/filter-noise.mjs:
+  /*!
+   * @pixi/filter-noise - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/filter-noise is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/mixin-cache-as-bitmap/dist/esm/mixin-cache-as-bitmap.mjs:
+  /*!
+   * @pixi/mixin-cache-as-bitmap - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/mixin-cache-as-bitmap is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/mixin-get-child-by-name/dist/esm/mixin-get-child-by-name.mjs:
+  /*!
+   * @pixi/mixin-get-child-by-name - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/mixin-get-child-by-name is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/mixin-get-global-position/dist/esm/mixin-get-global-position.mjs:
+  /*!
+   * @pixi/mixin-get-global-position - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/mixin-get-global-position is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/app/dist/esm/app.mjs:
+  /*!
+   * @pixi/app - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/app is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+
+@pixi/mesh-extras/dist/esm/mesh-extras.mjs:
+  /*!
+   * @pixi/mesh-extras - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/mesh-extras is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+@pixi/sprite-animated/dist/esm/sprite-animated.mjs:
+  /*!
+   * @pixi/sprite-animated - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * @pixi/sprite-animated is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */
+  /*! *****************************************************************************
+  Copyright (c) Microsoft Corporation.
+
+  Permission to use, copy, modify, and/or distribute this software for any
+  purpose with or without fee is hereby granted.
+
+  THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+  REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY
+  AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+  INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM
+  LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR
+  OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
+  PERFORMANCE OF THIS SOFTWARE.
+  ***************************************************************************** */
+
+pixi.js/dist/esm/pixi.mjs:
+  /*!
+   * pixi.js - v6.5.10
+   * Compiled Thu, 06 Jul 2023 15:25:11 UTC
+   *
+   * pixi.js is licensed under the MIT License.
+   * http://www.opensource.org/licenses/mit-license
+   */

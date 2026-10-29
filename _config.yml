@@ -5,7 +5,7 @@ header-img: img/moonlight-bg.jpg  # 改用月光主题背景图
 email: luoqing@example.com
 description: "这里是洛晴的创意空间，分享前端开发心得和数字插画作品 | 在代码与画笔间寻找平衡"
 keyword: "洛晴, 前端开发, JavaScript, Vue, 数字插画, 个人博客, 技术博客"
-url: "https://luoqing.me"
+url: "https://rotching.github.io"
 baseurl: ""
 
 # 功能设置
@@ -13,7 +13,12 @@ future: true
 highlighter: rouge
 permalink: pretty
 paginate: 8
-exclude: ["node_modules", "package.json"]
+exclude: ["node_modules", "package.json", "tools", "Gemfile", "Gemfile.lock"]
+
+# 右下角 Live2D 桌宠：大小单位为 px，可在网页菜单中单独调整。
+live2d_pet:
+  enabled: true
+  size: 300
 
 # 社交账号
 github_username: luoqing

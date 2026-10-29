@@ -1,0 +1,4 @@
+{% if site.live2d_pet.enabled != false %}
+<!-- Local widget assets; Cubism Core loads directly from Live2D's official host. -->
+<script defer src="{{ '/assets/live2d-pet/pet.js' | relative_url }}?v=1" data-size="{{ site.live2d_pet.size | default: 300 }}"></script>
+{% endif %}
