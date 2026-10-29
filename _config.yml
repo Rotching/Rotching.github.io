@@ -13,6 +13,7 @@ future: true
 highlighter: rouge
 permalink: pretty
 paginate: 8
+plugins: [jekyll-paginate]
 exclude: ["node_modules", "package.json", "tools", "Gemfile", "Gemfile.lock"]
 
 # 右下角 Live2D 桌宠：大小单位为 px，可在网页菜单中单独调整。
